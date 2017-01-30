@@ -1,1 +1,1 @@
-# search-tool
+The search tool is used for cross-lingual search on the xLiMe data stream.
